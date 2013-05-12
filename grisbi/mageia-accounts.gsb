@@ -362,6 +362,17 @@
 	<Transaction Ac="3" Nb="129" Id="(null)" Dt="01/27/2013" Dv="(null)" Cu="1" Am="48.55" Exb="0" Exr="0.00" Exf="0.00" Pa="29" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4LV28266D2371213E" Ma="3" Ar="0" Au="0" Re="11" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="130" Id="(null)" Dt="01/29/2013" Dv="(null)" Cu="1" Am="-1000.00" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="11" Pc="8PN708875J910600M" Ma="3" Ar="0" Au="0" Re="11" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="131" Mo="0" />
 	<Transaction Ac="1" Nb="131" Id="(null)" Dt="01/29/2013" Dv="(null)" Cu="1" Am="1000.00" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="1" Pc="8PN708875J910600M" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="130" Mo="0" />
+	<Transaction Ac="3" Nb="132" Id="(null)" Dt="02/01/2013" Dv="(null)" Cu="1" Am="4.68" Exb="0" Exr="0.00" Exf="0.00" Pa="30" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="17U407722P9254307" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="133" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="2.65" Exb="0" Exr="0.00" Exf="0.00" Pa="31" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="1YT16858PE889525S" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="134" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="19.47" Exb="0" Exr="0.00" Exf="0.00" Pa="32" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="8T930660DP553294U" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="135" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="-305.55" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="1" Pc="82G75100T1944305E" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="136" Mo="0" />
+	<Transaction Ac="3" Nb="136" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="305.55" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="11" Pc="82G75100T1944305E" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="135" Mo="0" />
+	<Transaction Ac="3" Nb="137" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="-457.47" Exb="0" Exr="0.00" Exf="0.00" Pa="9" Ca="1" Sca="4" Br="0" No="SSL Certificate" Pn="11" Pc="6J556080L91922602" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="138" Id="(null)" Dt="02/14/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="33" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="0NT99477PG4803738" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="139" Id="(null)" Dt="02/15/2013" Dv="(null)" Cu="1" Am="23.82" Exb="0" Exr="0.00" Exf="0.00" Pa="34" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="16N171089R107030R" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="140" Id="(null)" Dt="02/17/2013" Dv="(null)" Cu="1" Am="13.41" Exb="0" Exr="0.00" Exf="0.00" Pa="35" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4SV28907LG657021F" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="141" Id="(null)" Dt="02/20/2013" Dv="(null)" Cu="1" Am="0.71" Exb="0" Exr="0.00" Exf="0.00" Pa="36" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="46P84258NE2941056" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="142" Id="(null)" Dt="02/22/2013" Dv="(null)" Cu="1" Am="29.33" Exb="0" Exr="0.00" Exf="0.00" Pa="37" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="00G94719LX378633P" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -391,6 +402,14 @@
 	<Party Nb="27" Na="Robert Riches" Txt="(null)" Search="(null)" />
 	<Party Nb="28" Na="Donald Boyd" Txt="(null)" Search="(null)" />
 	<Party Nb="29" Na="Douglas Trent" Txt="(null)" Search="(null)" />
+	<Party Nb="30" Na="Jose Lopez" Txt="(null)" Search="(null)" />
+	<Party Nb="31" Na="Глазков Тимофей" Txt="(null)" Search="(null)" />
+	<Party Nb="32" Na="David Rodriguez Entem" Txt="(null)" Search="(null)" />
+	<Party Nb="33" Na="Christian Prior" Txt="(null)" Search="(null)" />
+	<Party Nb="34" Na="Martin Turner" Txt="(null)" Search="(null)" />
+	<Party Nb="35" Na="Loren Emerson" Txt="(null)" Search="(null)" />
+	<Party Nb="36" Na="Luthfi Kurniawan" Txt="(null)" Search="(null)" />
+	<Party Nb="37" Na="Ian Yearwood" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
@@ -421,5 +440,6 @@
 	<Reconcile Nb="10" Na="6" Acc="1" Idate="02/01/2012" Fdate="03/01/2012" Ibal="-6137.76" Fbal="1329.82" />
 	<Reconcile Nb="7" Na="3" Acc="3" Idate="01/31/2011" Fdate="01/01/2013" Ibal="653.24" Fbal="828.81" />
 	<Reconcile Nb="11" Na="4" Acc="3" Idate="01/01/2013" Fdate="02/01/2013" Ibal="828.81" Fbal="125.12" />
+	<Reconcile Nb="12" Na="5" Acc="3" Idate="02/01/2013" Fdate="03/01/2013" Ibal="125.12" Fbal="116.32" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
