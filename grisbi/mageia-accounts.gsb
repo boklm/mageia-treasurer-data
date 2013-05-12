@@ -133,7 +133,7 @@
 		Lines_per_transaction="3"
 		Comment="(null)"
 		Owner_address="(null)"
-		Default_debit_method="3"
+		Default_debit_method="4"
 		Default_credit_method="2"
 		Sort_by_method="0"
 		Neutrals_inside_method="0"
@@ -220,7 +220,7 @@
 	<Payment Number="2" Name="Deposit" Sign="2" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
 	<Payment Number="3" Name="Credit card" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
 	<Payment Number="4" Name="Direct debit" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
-	<Payment Number="5" Name="Cheque" Sign="1" Show_entry="1" Automatic_number="1" Current_number="(null)" Account="1" />
+	<Payment Number="5" Name="Cheque" Sign="0" Show_entry="1" Automatic_number="1" Current_number="(null)" Account="1" />
 	<Payment Number="6" Name="Transfer" Sign="0" Show_entry="1" Automatic_number="0" Current_number="(null)" Account="2" />
 	<Payment Number="7" Name="Deposit" Sign="2" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="2" />
 	<Payment Number="8" Name="Credit card" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="2" />
@@ -240,21 +240,93 @@
 	<Transaction Ac="3" Nb="7" Id="(null)" Dt="10/01/2010" Dv="(null)" Cu="1" Am="63.51" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="1" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="8" Id="(null)" Dt="10/01/2010" Dv="(null)" Cu="1" Am="2587.94" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="3" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="2" Nb="9" Id="(null)" Dt="10/01/2010" Dv="(null)" Cu="1" Am="4000.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="6" Pc="(null)" Ma="3" Ar="0" Au="0" Re="2" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="10" Id="(null)" Dt="01/01/2011" Dv="(null)" Cu="1" Am="81.15" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="11" Id="(null)" Dt="02/01/2011" Dv="(null)" Cu="1" Am="687.28" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="12" Id="(null)" Dt="03/01/2011" Dv="(null)" Cu="1" Am="9.51" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="13" Id="(null)" Dt="04/01/2011" Dv="(null)" Cu="1" Am="223.73" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="14" Id="(null)" Dt="05/01/2011" Dv="(null)" Cu="1" Am="549.30" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="15" Id="(null)" Dt="06/01/2011" Dv="(null)" Cu="1" Am="593.40" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="16" Id="(null)" Dt="07/01/2011" Dv="(null)" Cu="1" Am="404.13" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="17" Id="(null)" Dt="08/01/2011" Dv="(null)" Cu="1" Am="233.84" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="18" Id="(null)" Dt="09/01/2011" Dv="(null)" Cu="1" Am="657.96" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="19" Id="(null)" Dt="10/01/2011" Dv="(null)" Cu="1" Am="984.94" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="20" Id="(null)" Dt="11/01/2011" Dv="(null)" Cu="1" Am="1041.34" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="21" Id="(null)" Dt="12/01/2011" Dv="(null)" Cu="1" Am="508.33" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="22" Id="(null)" Dt="02/01/2011" Dv="(null)" Cu="1" Am="860.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="3" Br="0" No="(null)" Pn="2" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="23" Id="(null)" Dt="01/01/2011" Dv="(null)" Cu="1" Am="30.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="4" Br="0" No="(null)" Pn="2" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="24" Id="(null)" Dt="06/01/2011" Dv="(null)" Cu="1" Am="80.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="4" Br="0" No="(null)" Pn="2" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="25" Id="(null)" Dt="07/01/2011" Dv="(null)" Cu="1" Am="25.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="4" Br="0" No="(null)" Pn="2" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="26" Id="(null)" Dt="10/01/2011" Dv="(null)" Cu="1" Am="375.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="4" Br="0" No="(null)" Pn="2" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="27" Id="(null)" Dt="11/01/2011" Dv="(null)" Cu="1" Am="300.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="4" Br="0" No="(null)" Pn="2" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="28" Id="(null)" Dt="01/01/2011" Dv="(null)" Cu="1" Am="50.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="29" Id="(null)" Dt="02/01/2011" Dv="(null)" Cu="1" Am="2360.55" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="30" Id="(null)" Dt="03/01/2011" Dv="(null)" Cu="1" Am="100.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="31" Id="(null)" Dt="04/01/2011" Dv="(null)" Cu="1" Am="60.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="32" Id="(null)" Dt="06/01/2011" Dv="(null)" Cu="1" Am="234.50" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="33" Id="(null)" Dt="07/01/2011" Dv="(null)" Cu="1" Am="6.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="34" Id="(null)" Dt="08/01/2011" Dv="(null)" Cu="1" Am="30.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="35" Id="(null)" Dt="09/01/2011" Dv="(null)" Cu="1" Am="50.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="36" Id="(null)" Dt="10/01/2011" Dv="(null)" Cu="1" Am="240.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="37" Id="(null)" Dt="12/01/2011" Dv="(null)" Cu="1" Am="375.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="38" Id="(null)" Dt="11/11/2010" Dv="(null)" Cu="1" Am="-44.00" Exb="0" Exr="0.00" Exf="0.00" Pa="5" Ca="3" Sca="0" Br="0" No="Administrative cost for Mageia.Org" Pn="4" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="39" Id="(null)" Dt="01/04/2011" Dv="(null)" Cu="1" Am="-100.00" Exb="0" Exr="0.00" Exf="0.00" Pa="6" Ca="3" Sca="0" Br="0" No="Adhésion annuelle à l&apos;April" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="40" Id="(null)" Dt="09/18/2010" Dv="(null)" Cu="1" Am="-280.00" Exb="0" Exr="0.00" Exf="0.00" Pa="7" Ca="3" Sca="0" Br="0" No="Enregistrement marque Mageia (INPI, 10 ans)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="41" Id="(null)" Dt="02/04/2011" Dv="(null)" Cu="1" Am="-1932.14" Exb="0" Exr="0.00" Exf="0.00" Pa="8" Ca="4" Sca="1" Br="0" No="Autocollants + TS pour FOSDEM 2011" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="42" Id="(null)" Dt="02/04/2011" Dv="(null)" Cu="1" Am="-17.93" Exb="0" Exr="0.00" Exf="0.00" Pa="1" Ca="4" Sca="1" Br="0" No="Caisse" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="43" Id="(null)" Dt="05/09/2011" Dv="(null)" Cu="1" Am="-159.25" Exb="0" Exr="0.00" Exf="0.00" Pa="7" Ca="4" Sca="1" Br="0" No="Posters + flyers pour Solutions Linux 2011" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="44" Id="(null)" Dt="05/30/2011" Dv="(null)" Cu="1" Am="-250.00" Exb="0" Exr="0.00" Exf="0.00" Pa="9" Ca="1" Sca="4" Br="0" No="RAM, hébergement Gandi (www/blog/planet)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="45" Id="(null)" Dt="04/10/2011" Dv="(null)" Cu="1" Am="-215.28" Exb="0" Exr="0.00" Exf="0.00" Pa="9" Ca="1" Sca="4" Br="0" No="SSL Certificate" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="46" Id="(null)" Dt="10/20/2010" Dv="(null)" Cu="1" Am="-242.70" Exb="0" Exr="0.00" Exf="0.00" Pa="2" Ca="1" Sca="1" Br="0" No="Hard Disks" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="47" Id="(null)" Dt="11/14/2011" Dv="(null)" Cu="1" Am="-1149.83" Exb="0" Exr="0.00" Exf="0.00" Pa="10" Ca="1" Sca="1" Br="0" No="Hard Disks" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="48" Id="(null)" Dt="10/26/2011" Dv="(null)" Cu="1" Am="-294.05" Exb="0" Exr="0.00" Exf="0.00" Pa="11" Ca="1" Sca="1" Br="0" No="ARM boards for Build System" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="49" Id="(null)" Dt="11/29/2011" Dv="(null)" Cu="1" Am="-678.99" Exb="0" Exr="0.00" Exf="0.00" Pa="1" Ca="1" Sca="1" Br="0" No="SSD for build system" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="50" Id="(null)" Dt="10/25/2011" Dv="(null)" Cu="1" Am="-2669.60" Exb="0" Exr="0.00" Exf="0.00" Pa="1" Ca="1" Sca="1" Br="0" No="Dell server for QA / Packagers" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="51" Id="(null)" Dt="03/01/2011" Dv="(null)" Cu="1" Am="-54.65" Exb="0" Exr="0.00" Exf="0.00" Pa="12" Ca="4" Sca="2" Br="0" No="40 TS pour Chemnitzer 2011" Pn="4" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="52" Id="(null)" Dt="05/17/2011" Dv="(null)" Cu="1" Am="-12.30" Exb="0" Exr="0.00" Exf="0.00" Pa="1" Ca="4" Sca="2" Br="0" No="3 TS pour donateurs (diner SL2011)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="53" Id="(null)" Dt="05/26/2011" Dv="(null)" Cu="1" Am="-25.00" Exb="0" Exr="0.00" Exf="0.00" Pa="1" Ca="4" Sca="2" Br="0" No="2 TS pour événement" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="54" Id="(null)" Dt="11/17/2011" Dv="(null)" Cu="1" Am="-35.03" Exb="0" Exr="0.00" Exf="0.00" Pa="12" Ca="4" Sca="2" Br="0" No="Autocollants, flyers pour événement" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="55" Id="(null)" Dt="02/06/2011" Dv="(null)" Cu="1" Am="-166.50" Exb="0" Exr="0.00" Exf="0.00" Pa="13" Ca="5" Sca="1" Br="0" No="Train et hébergement (FOSDEM 2011, wobo)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="56" Id="(null)" Dt="12/31/2011" Dv="(null)" Cu="1" Am="-5385.18" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="11" Pc="(null)" Ma="3" Ar="0" Au="0" Re="6" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="57" Mo="0" />
+	<Transaction Ac="1" Nb="57" Id="(null)" Dt="12/31/2011" Dv="(null)" Cu="1" Am="5385.18" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="56" Mo="0" />
+	<Transaction Ac="1" Nb="58" Id="(null)" Dt="12/31/2011" Dv="(null)" Cu="1" Am="-3100.00" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="59" Mo="0" />
+	<Transaction Ac="2" Nb="59" Id="(null)" Dt="12/31/2011" Dv="(null)" Cu="1" Am="3100.00" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="6" Pc="(null)" Ma="3" Ar="0" Au="0" Re="5" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="58" Mo="0" />
+	<Transaction Ac="1" Nb="60" Id="(null)" Dt="12/31/2011" Dv="(null)" Cu="1" Am="-31.09" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="3" Sca="0" Br="0" No="Unknown" Pn="4" Pc="(null)" Ma="3" Ar="0" Au="0" Re="4" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
 	<Party Nb="4" Na="Various People" Txt="(null)" Search="(null)" />
+	<Party Nb="5" Na="French Administration" Txt="(null)" Search="(null)" />
+	<Party Nb="6" Na="April.org" Txt="(null)" Search="(null)" />
+	<Party Nb="7" Na="rda" Txt="(null)" Search="(null)" />
+	<Party Nb="8" Na="Poissy Troph" Txt="(null)" Search="(null)" />
+	<Party Nb="9" Na="Gandi.net" Txt="(null)" Search="(null)" />
+	<Party Nb="10" Na="PC21" Txt="(null)" Search="(null)" />
+	<Party Nb="11" Na="Mouser" Txt="(null)" Search="(null)" />
+	<Party Nb="12" Na="La Poste" Txt="(null)" Search="(null)" />
+	<Party Nb="13" Na="wobo" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
 	<Sub_category Nbc="1" Nb="3" Na="Others" />
+	<Sub_category Nbc="1" Nb="4" Na="Hosting" />
 	<Category Nb="2" Na="Donation" Kd="0" />
 	<Sub_category Nbc="2" Nb="1" Na="Paypal" />
 	<Sub_category Nbc="2" Nb="2" Na="Transfer" />
+	<Sub_category Nbc="2" Nb="3" Na="Cash" />
+	<Sub_category Nbc="2" Nb="4" Na="Check" />
+	<Category Nb="3" Na="Administrative" Kd="1" />
+	<Category Nb="4" Na="Marketing" Kd="1" />
+	<Sub_category Nbc="4" Nb="1" Na="Goodies" />
+	<Sub_category Nbc="4" Nb="2" Na="Post" />
+	<Category Nb="5" Na="Events" Kd="1" />
+	<Sub_category Nbc="5" Nb="1" Na="Travel / Accomodation" />
 	<Bank Nb="1" Na="CIC" Co="(null)" BIC="CMCIFRPP" Adr="CIC Paris Villiers 14 avenue de Villiers 75017 Paris France" Tel="(null)" Mail="(null)" Web="https://www.cic.fr/" Nac="(null)" Faxc="(null)" Telc="(null)" Mailc="(null)" Rem="(null)" />
 	<Bank Nb="2" Na="Paypal" Co="(null)" BIC="(null)" Adr="(null)" Tel="(null)" Mail="(null)" Web="(null)" Nac="(null)" Faxc="(null)" Telc="(null)" Mailc="(null)" Rem="(null)" />
 	<Reconcile Nb="1" Na="1" Acc="3" Idate="(null)" Fdate="12/31/2010" Ibal="0.00" Fbal="63.51" />
 	<Reconcile Nb="2" Na="2" Acc="2" Idate="(null)" Fdate="12/31/2010" Ibal="0.00" Fbal="4000.00" />
 	<Reconcile Nb="3" Na="3" Acc="1" Idate="(null)" Fdate="12/31/2010" Ibal="0.00" Fbal="1310.24" />
+	<Reconcile Nb="6" Na="2" Acc="3" Idate="12/31/2010" Fdate="01/31/2011" Ibal="63.51" Fbal="653.24" />
+	<Reconcile Nb="4" Na="4" Acc="1" Idate="12/31/2010" Fdate="01/01/2012" Ibal="1310.24" Fbal="413.13" />
+	<Reconcile Nb="5" Na="3" Acc="2" Idate="12/31/2010" Fdate="01/01/2012" Ibal="4000.00" Fbal="7100.00" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
