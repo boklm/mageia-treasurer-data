@@ -381,6 +381,8 @@
 	<Transaction Ac="1" Nb="148" Id="(null)" Dt="03/25/2013" Dv="(null)" Cu="1" Am="300.00" Exb="0" Exr="0.00" Exf="0.00" Pa="40" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="149" Id="(null)" Dt="04/10/2013" Dv="(null)" Cu="1" Am="-9.57" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="150" Id="(null)" Dt="04/22/2013" Dv="(null)" Cu="1" Am="2.00" Exb="0" Exr="0.00" Exf="0.00" Pa="41" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="30066-12-13112355004358" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="151" Id="(null)" Dt="05/01/2013" Dv="(null)" Cu="1" Am="-9.57" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="152" Id="(null)" Dt="05/07/2013" Dv="(null)" Cu="1" Am="20.00" Exb="0" Exr="0.00" Exf="0.00" Pa="42" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="30066-12-13127365019801" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -422,6 +424,7 @@
 	<Party Nb="39" Na="CIC" Txt="(null)" Search="(null)" />
 	<Party Nb="40" Na="CALAME VINCENT" Txt="(null)" Search="(null)" />
 	<Party Nb="41" Na="STAWRAKAKIS NICOS" Txt="(null)" Search="(null)" />
+	<Party Nb="42" Na="VIKTOR MOJR" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
