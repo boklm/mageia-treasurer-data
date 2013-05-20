@@ -373,6 +373,7 @@
 	<Transaction Ac="3" Nb="140" Id="(null)" Dt="02/17/2013" Dv="(null)" Cu="1" Am="13.41" Exb="0" Exr="0.00" Exf="0.00" Pa="35" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4SV28907LG657021F" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="141" Id="(null)" Dt="02/20/2013" Dv="(null)" Cu="1" Am="0.71" Exb="0" Exr="0.00" Exf="0.00" Pa="36" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="46P84258NE2941056" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="142" Id="(null)" Dt="02/22/2013" Dv="(null)" Cu="1" Am="29.33" Exb="0" Exr="0.00" Exf="0.00" Pa="37" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="00G94719LX378633P" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="2" Nb="143" Id="(null)" Dt="12/31/2012" Dv="(null)" Cu="1" Am="135.36" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="6" Sca="0" Br="0" No="Interests for 2012" Pn="7" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -427,6 +428,7 @@
 	<Sub_category Nbc="4" Nb="2" Na="Post" />
 	<Category Nb="5" Na="Events" Kd="1" />
 	<Sub_category Nbc="5" Nb="1" Na="Travel / Accomodation" />
+	<Category Nb="6" Na="Interest" Kd="0" />
 	<Bank Nb="1" Na="CIC" Co="(null)" BIC="CMCIFRPP" Adr="CIC Paris Villiers 14 avenue de Villiers 75017 Paris France" Tel="(null)" Mail="(null)" Web="https://www.cic.fr/" Nac="(null)" Faxc="(null)" Telc="(null)" Mailc="(null)" Rem="(null)" />
 	<Bank Nb="2" Na="Paypal" Co="(null)" BIC="(null)" Adr="(null)" Tel="(null)" Mail="(null)" Web="(null)" Nac="(null)" Faxc="(null)" Telc="(null)" Mailc="(null)" Rem="(null)" />
 	<Reconcile Nb="1" Na="1" Acc="3" Idate="(null)" Fdate="12/31/2010" Ibal="0.00" Fbal="63.51" />
