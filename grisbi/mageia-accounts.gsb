@@ -414,6 +414,7 @@
 	<Transaction Ac="3" Nb="181" Id="(null)" Dt="05/20/2013" Dv="(null)" Cu="1" Am="58.91" Exb="0" Exr="0.00" Exf="0.00" Pa="71" Ca="2" Sca="1" Br="0" No="&quot;Super et merci pour le travail!&quot;" Pn="11" Pc="8R111960V96024228" Ma="3" Ar="0" Au="0" Re="13" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="182" Id="(null)" Dt="05/20/2013" Dv="(null)" Cu="1" Am="73.70" Exb="0" Exr="0.00" Exf="0.00" Pa="72" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="75376291VC104122T" Ma="3" Ar="0" Au="0" Re="13" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="183" Id="(null)" Dt="05/21/2013" Dv="(null)" Cu="1" Am="38.27" Exb="0" Exr="0.00" Exf="0.00" Pa="73" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4L8954390R460493M" Ma="3" Ar="0" Au="0" Re="14" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="184" Id="(null)" Dt="05/21/2013" Dv="(null)" Cu="1" Am="9.51" Exb="0" Exr="0.00" Exf="0.00" Pa="74" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="6HM04524X71658740" Ma="3" Ar="0" Au="0" Re="15" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -487,6 +488,7 @@
 	<Party Nb="71" Na="Thies Thate" Txt="(null)" Search="(null)" />
 	<Party Nb="72" Na="Raphael Vinet" Txt="(null)" Search="(null)" />
 	<Party Nb="73" Na="Alexandre Andrade" Txt="(null)" Search="(null)" />
+	<Party Nb="74" Na="Ryan Southard" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
@@ -521,5 +523,6 @@
 	<Reconcile Nb="12" Na="5" Acc="3" Idate="02/01/2013" Fdate="03/01/2013" Ibal="125.12" Fbal="116.32" />
 	<Reconcile Nb="13" Na="6" Acc="3" Idate="03/01/2013" Fdate="04/01/2013" Ibal="116.32" Fbal="1578.46" />
 	<Reconcile Nb="14" Na="7" Acc="3" Idate="04/01/2013" Fdate="05/21/2013" Ibal="1578.46" Fbal="1616.73" />
+	<Reconcile Nb="15" Na="8" Acc="3" Idate="05/21/2013" Fdate="05/21/2013" Ibal="1616.73" Fbal="1626.24" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
