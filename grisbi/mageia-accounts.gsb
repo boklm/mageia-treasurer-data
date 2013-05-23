@@ -419,6 +419,9 @@
 	<Transaction Ac="1" Nb="186" Id="(null)" Dt="05/21/2013" Dv="(null)" Cu="1" Am="200.00" Exb="0" Exr="0.00" Exf="0.00" Pa="76" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="M220439100327861" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="187" Id="(null)" Dt="05/21/2013" Dv="(null)" Cu="1" Am="39.19" Exb="0" Exr="0.00" Exf="0.00" Pa="77" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="0R209498KN197042U" Ma="3" Ar="0" Au="0" Re="17" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="188" Id="(null)" Dt="05/21/2013" Dv="(null)" Cu="1" Am="29.33" Exb="0" Exr="0.00" Exf="0.00" Pa="78" Ca="2" Sca="1" Br="0" No="&quot;Bravo pour la qualité de votre travail et pour me permettre d&apos;utiliser ce système d&apos;exploitation extraordinaire Louis&quot;" Pn="11" Pc="92R71601YJ4536841" Ma="3" Ar="0" Au="0" Re="18" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="189" Id="(null)" Dt="05/22/2013" Dv="(null)" Cu="1" Am="4.63" Exb="0" Exr="0.00" Exf="0.00" Pa="79" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="7DX95067UA603213W" Ma="3" Ar="0" Au="0" Re="19" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="190" Id="(null)" Dt="05/23/2013" Dv="(null)" Cu="1" Am="9.43" Exb="0" Exr="0.00" Exf="0.00" Pa="53" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4R092793JM703390P" Ma="3" Ar="0" Au="0" Re="19" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="191" Id="(null)" Dt="05/23/2013" Dv="(null)" Cu="1" Am="98.35" Exb="0" Exr="0.00" Exf="0.00" Pa="80" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="6CK7098587597373E" Ma="3" Ar="0" Au="0" Re="19" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -497,6 +500,8 @@
 	<Party Nb="76" Na="GUILLEMOT YVES" Txt="(null)" Search="(null)" />
 	<Party Nb="77" Na="Eduardo Castiello Armayor" Txt="(null)" Search="(null)" />
 	<Party Nb="78" Na="Louis Soriano" Txt="(null)" Search="(null)" />
+	<Party Nb="79" Na="Brian Uhde" Txt="(null)" Search="(null)" />
+	<Party Nb="80" Na="Yves-Gaël Chény" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
@@ -535,5 +540,6 @@
 	<Reconcile Nb="16" Na="9" Acc="3" Idate="05/21/2013" Fdate="05/21/2013" Ibal="1626.24" Fbal="1645.71" />
 	<Reconcile Nb="17" Na="10" Acc="3" Idate="05/21/2013" Fdate="05/21/2013" Ibal="1645.71" Fbal="1684.90" />
 	<Reconcile Nb="18" Na="11" Acc="3" Idate="05/21/2013" Fdate="05/21/2013" Ibal="1684.90" Fbal="1714.23" />
+	<Reconcile Nb="19" Na="12" Acc="3" Idate="05/21/2013" Fdate="05/24/2013" Ibal="1714.23" Fbal="1826.64" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
