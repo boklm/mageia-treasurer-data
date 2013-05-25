@@ -422,6 +422,7 @@
 	<Transaction Ac="3" Nb="189" Id="(null)" Dt="05/22/2013" Dv="(null)" Cu="1" Am="4.63" Exb="0" Exr="0.00" Exf="0.00" Pa="79" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="7DX95067UA603213W" Ma="3" Ar="0" Au="0" Re="19" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="190" Id="(null)" Dt="05/23/2013" Dv="(null)" Cu="1" Am="9.43" Exb="0" Exr="0.00" Exf="0.00" Pa="53" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4R092793JM703390P" Ma="3" Ar="0" Au="0" Re="19" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="191" Id="(null)" Dt="05/23/2013" Dv="(null)" Cu="1" Am="98.35" Exb="0" Exr="0.00" Exf="0.00" Pa="80" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="6CK7098587597373E" Ma="3" Ar="0" Au="0" Re="19" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="192" Id="(null)" Dt="05/24/2013" Dv="(null)" Cu="1" Am="17.00" Exb="0" Exr="0.00" Exf="0.00" Pa="81" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="12144675026602" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -502,6 +503,7 @@
 	<Party Nb="78" Na="Louis Soriano" Txt="(null)" Search="(null)" />
 	<Party Nb="79" Na="Brian Uhde" Txt="(null)" Search="(null)" />
 	<Party Nb="80" Na="Yves-Gaël Chény" Txt="(null)" Search="(null)" />
+	<Party Nb="81" Na="Franz Holzinger" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
