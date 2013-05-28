@@ -220,7 +220,7 @@
 	<Payment Number="2" Name="Deposit" Sign="2" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
 	<Payment Number="3" Name="Credit card" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
 	<Payment Number="4" Name="Direct debit" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
-	<Payment Number="5" Name="Cheque" Sign="0" Show_entry="1" Automatic_number="1" Current_number="(null)" Account="1" />
+	<Payment Number="5" Name="Cheque" Sign="0" Show_entry="1" Automatic_number="1" Current_number="10876R04 " Account="1" />
 	<Payment Number="6" Name="Transfer" Sign="0" Show_entry="1" Automatic_number="0" Current_number="(null)" Account="2" />
 	<Payment Number="7" Name="Deposit" Sign="2" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="2" />
 	<Payment Number="8" Name="Credit card" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="2" />
@@ -425,6 +425,9 @@
 	<Transaction Ac="1" Nb="192" Id="(null)" Dt="05/24/2013" Dv="(null)" Cu="1" Am="17.00" Exb="0" Exr="0.00" Exf="0.00" Pa="81" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="12144675026602" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="193" Id="(null)" Dt="05/26/2013" Dv="(null)" Cu="1" Am="72.95" Exb="0" Exr="0.00" Exf="0.00" Pa="82" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="7W7958651P567334H" Ma="3" Ar="0" Au="0" Re="20" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="194" Id="(null)" Dt="05/26/2013" Dv="(null)" Cu="1" Am="0.74" Exb="0" Exr="0.00" Exf="0.00" Pa="83" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="0UA56327HA806551C" Ma="3" Ar="0" Au="0" Re="20" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="195" Id="(null)" Dt="05/27/2013" Dv="(null)" Cu="1" Am="50.00" Exb="0" Exr="0.00" Exf="0.00" Pa="4" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="10876R04 " Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="196" Id="(null)" Dt="05/27/2013" Dv="(null)" Cu="1" Am="150.00" Exb="0" Exr="0.00" Exf="0.00" Pa="84" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="12147375008079" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="197" Id="(null)" Dt="05/28/2013" Dv="(null)" Cu="1" Am="30.00" Exb="0" Exr="0.00" Exf="0.00" Pa="85" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="12148355012397" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -508,6 +511,8 @@
 	<Party Nb="81" Na="Franz Holzinger" Txt="(null)" Search="(null)" />
 	<Party Nb="82" Na="Daniel Vezina" Txt="(null)" Search="(null)" />
 	<Party Nb="83" Na="Giovanni Salvi" Txt="(null)" Search="(null)" />
+	<Party Nb="84" Na="JEAN-LUC VERSINI" Txt="(null)" Search="(null)" />
+	<Party Nb="85" Na="Klemens Kowalski" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
