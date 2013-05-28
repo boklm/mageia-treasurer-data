@@ -429,6 +429,7 @@
 	<Transaction Ac="1" Nb="196" Id="(null)" Dt="05/27/2013" Dv="(null)" Cu="1" Am="150.00" Exb="0" Exr="0.00" Exf="0.00" Pa="84" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="12147375008079" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="197" Id="(null)" Dt="05/28/2013" Dv="(null)" Cu="1" Am="30.00" Exb="0" Exr="0.00" Exf="0.00" Pa="85" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="12148355012397" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="198" Id="(null)" Dt="05/28/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="86" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="7D225148Y8702320P" Ma="3" Ar="0" Au="0" Re="21" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="199" Id="(null)" Dt="05/28/2013" Dv="(null)" Cu="1" Am="-164.00" Exb="0" Exr="0.00" Exf="0.00" Pa="14" Ca="1" Sca="2" Br="0" No="Train to go to Marseille on 04/05/2013 to move servers (boklm)" Pn="1" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
