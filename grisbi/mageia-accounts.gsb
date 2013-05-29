@@ -433,6 +433,7 @@
 	<Transaction Ac="1" Nb="200" Id="(null)" Dt="05/29/2013" Dv="(null)" Cu="1" Am="15.00" Exb="0" Exr="0.00" Exf="0.00" Pa="87" Ca="2" Sca="4" Br="0" No="Donation at Solutions Linux 2013" Pn="5" Pc="0701440" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="201" Id="(null)" Dt="05/28/2013" Dv="(null)" Cu="1" Am="30.00" Exb="0" Exr="0.00" Exf="0.00" Pa="88" Ca="2" Sca="4" Br="0" No="Donation at Solutions Linux 2013" Pn="5" Pc="1343837" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="202" Id="(null)" Dt="05/29/2013" Dv="(null)" Cu="1" Am="112.80" Exb="0" Exr="0.00" Exf="0.00" Pa="89" Ca="2" Sca="3" Br="0" No="(null)" Pn="2" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="203" Id="(null)" Dt="05/29/2013" Dv="(null)" Cu="1" Am="172.00" Exb="0" Exr="0.00" Exf="0.00" Pa="90" Ca="2" Sca="3" Br="0" No="(null)" Pn="2" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -522,6 +523,7 @@
 	<Party Nb="87" Na="Bonneau Pierre" Txt="(null)" Search="(null)" />
 	<Party Nb="88" Na="Christian Plaetevoet" Txt="(null)" Search="(null)" />
 	<Party Nb="89" Na="FOSDEM 2013 Visitors" Txt="(null)" Search="(null)" />
+	<Party Nb="90" Na="Solutions Linux 2013 Visitors" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
