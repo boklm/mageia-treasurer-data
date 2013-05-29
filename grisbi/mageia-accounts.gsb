@@ -220,7 +220,7 @@
 	<Payment Number="2" Name="Deposit" Sign="2" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
 	<Payment Number="3" Name="Credit card" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
 	<Payment Number="4" Name="Direct debit" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
-	<Payment Number="5" Name="Cheque" Sign="0" Show_entry="1" Automatic_number="1" Current_number="10876R04 " Account="1" />
+	<Payment Number="5" Name="Cheque" Sign="0" Show_entry="1" Automatic_number="1" Current_number="1343837" Account="1" />
 	<Payment Number="6" Name="Transfer" Sign="0" Show_entry="1" Automatic_number="0" Current_number="(null)" Account="2" />
 	<Payment Number="7" Name="Deposit" Sign="2" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="2" />
 	<Payment Number="8" Name="Credit card" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="2" />
@@ -430,6 +430,8 @@
 	<Transaction Ac="1" Nb="197" Id="(null)" Dt="05/28/2013" Dv="(null)" Cu="1" Am="30.00" Exb="0" Exr="0.00" Exf="0.00" Pa="85" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="12148355012397" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="198" Id="(null)" Dt="05/28/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="86" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="7D225148Y8702320P" Ma="3" Ar="0" Au="0" Re="21" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="199" Id="(null)" Dt="05/28/2013" Dv="(null)" Cu="1" Am="-164.00" Exb="0" Exr="0.00" Exf="0.00" Pa="14" Ca="1" Sca="2" Br="0" No="Train to go to Marseille on 04/05/2013 to move servers (boklm)" Pn="1" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="200" Id="(null)" Dt="05/29/2013" Dv="(null)" Cu="1" Am="15.00" Exb="0" Exr="0.00" Exf="0.00" Pa="87" Ca="2" Sca="4" Br="0" No="Donation at Solutions Linux 2013" Pn="5" Pc="0701440" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="201" Id="(null)" Dt="05/28/2013" Dv="(null)" Cu="1" Am="30.00" Exb="0" Exr="0.00" Exf="0.00" Pa="88" Ca="2" Sca="4" Br="0" No="Donation at Solutions Linux 2013" Pn="5" Pc="1343837" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -516,6 +518,8 @@
 	<Party Nb="84" Na="JEAN-LUC VERSINI" Txt="(null)" Search="(null)" />
 	<Party Nb="85" Na="Klemens Kowalski" Txt="(null)" Search="(null)" />
 	<Party Nb="86" Na="Marc Montalbine" Txt="(null)" Search="(null)" />
+	<Party Nb="87" Na="Bonneau Pierre" Txt="(null)" Search="(null)" />
+	<Party Nb="88" Na="Christian Plaetevoet" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
