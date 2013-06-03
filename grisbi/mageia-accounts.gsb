@@ -442,6 +442,9 @@
 	<Transaction Ac="3" Nb="209" Id="(null)" Dt="06/01/2013" Dv="(null)" Cu="1" Am="19.47" Exb="0" Exr="0.00" Exf="0.00" Pa="96" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="1PY78253TW282662B" Ma="3" Ar="0" Au="0" Re="23" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="210" Id="(null)" Dt="06/01/2013" Dv="(null)" Cu="1" Am="38.79" Exb="0" Exr="0.00" Exf="0.00" Pa="97" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4A869076TG198870X" Ma="3" Ar="0" Au="0" Re="24" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="211" Id="(null)" Dt="06/02/2013" Dv="(null)" Cu="1" Am="9.51" Exb="0" Exr="0.00" Exf="0.00" Pa="98" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4NE2663600880835H" Ma="3" Ar="0" Au="0" Re="25" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="212" Id="(null)" Dt="06/03/2013" Dv="(null)" Cu="1" Am="19.47" Exb="0" Exr="0.00" Exf="0.00" Pa="99" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="2LB19536G0845674K" Ma="3" Ar="0" Au="0" Re="26" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="213" Id="(null)" Dt="06/03/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="100" Ca="2" Sca="1" Br="0" No="&quot;Merci pour votre formidable distribution&quot;" Pn="11" Pc="5VP157003X0440311" Ma="3" Ar="0" Au="0" Re="26" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="214" Id="(null)" Dt="06/03/2013" Dv="(null)" Cu="1" Am="4.68" Exb="0" Exr="0.00" Exf="0.00" Pa="101" Ca="2" Sca="2" Br="0" No="(null)" Pn="11" Pc="1ER70288P3432204H" Ma="3" Ar="0" Au="0" Re="26" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -540,6 +543,9 @@
 	<Party Nb="96" Na="Maurizio Cortini" Txt="(null)" Search="(null)" />
 	<Party Nb="97" Na="Kevin Wilcoxon" Txt="(null)" Search="(null)" />
 	<Party Nb="98" Na="Richard CROSBY" Txt="(null)" Search="(null)" />
+	<Party Nb="99" Na="René Hytting" Txt="(null)" Search="(null)" />
+	<Party Nb="100" Na="Fabien Legiret" Txt="(null)" Search="(null)" />
+	<Party Nb="101" Na="JULIA Christian" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
@@ -585,5 +591,6 @@
 	<Reconcile Nb="23" Na="16" Acc="3" Idate="05/30/2013" Fdate="06/01/2013" Ibal="2155.94" Fbal="2265.34" />
 	<Reconcile Nb="24" Na="17" Acc="3" Idate="06/01/2013" Fdate="06/01/2013" Ibal="2265.34" Fbal="2304.13" />
 	<Reconcile Nb="25" Na="18" Acc="3" Idate="06/01/2013" Fdate="06/02/2013" Ibal="2304.13" Fbal="2313.64" />
+	<Reconcile Nb="26" Na="19" Acc="3" Idate="06/02/2013" Fdate="06/04/2013" Ibal="2313.64" Fbal="2386.84" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
