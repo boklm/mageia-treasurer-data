@@ -450,6 +450,7 @@
 	<Transaction Ac="3" Nb="217" Id="(null)" Dt="06/07/2013" Dv="(null)" Cu="1" Am="1.21" Exb="0" Exr="0.00" Exf="0.00" Pa="104" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="54B93300Y2991443U" Ma="3" Ar="0" Au="0" Re="27" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="218" Id="(null)" Dt="06/08/2013" Dv="(null)" Cu="1" Am="38.79" Exb="0" Exr="0.00" Exf="0.00" Pa="105" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="9MP31302S75921512" Ma="3" Ar="0" Au="0" Re="27" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="219" Id="(null)" Dt="06/08/2013" Dv="(null)" Cu="1" Am="0.74" Exb="0" Exr="0.00" Exf="0.00" Pa="103" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="6JF202745E8484504" Ma="3" Ar="0" Au="0" Re="27" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="220" Id="(null)" Dt="06/09/2013" Dv="(null)" Cu="1" Am="-500.00" Exb="0" Exr="0.00" Exf="0.00" Pa="106" Ca="5" Sca="0" Br="0" No="Sponsorship RMLL 2013 (Mageia Days 1)" Pn="1" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -555,6 +556,7 @@
 	<Party Nb="103" Na="Bronus Karka" Txt="(null)" Search="(null)" />
 	<Party Nb="104" Na="David Brunger" Txt="(null)" Search="(null)" />
 	<Party Nb="105" Na="Jean-Francois Cayula" Txt="(null)" Search="(null)" />
+	<Party Nb="106" Na="RMLL 2013" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
