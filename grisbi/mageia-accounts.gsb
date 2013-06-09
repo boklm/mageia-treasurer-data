@@ -452,6 +452,9 @@
 	<Transaction Ac="3" Nb="219" Id="(null)" Dt="06/08/2013" Dv="(null)" Cu="1" Am="0.74" Exb="0" Exr="0.00" Exf="0.00" Pa="103" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="6JF202745E8484504" Ma="3" Ar="0" Au="0" Re="27" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="220" Id="(null)" Dt="06/09/2013" Dv="(null)" Cu="1" Am="-500.00" Exb="0" Exr="0.00" Exf="0.00" Pa="106" Ca="5" Sca="0" Br="0" No="Sponsorship RMLL 2013 (Mageia Days 1)" Pn="1" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="221" Id="(null)" Dt="06/09/2013" Dv="(null)" Cu="1" Am="29.33" Exb="0" Exr="0.00" Exf="0.00" Pa="107" Ca="2" Sca="1" Br="0" No="&quot;Merci à tous pour l&apos;excellent travail fourni et la qualité de la distrib. La version 3 est vraiment Excellente !&quot;" Pn="11" Pc="2PU4047885117591U" Ma="3" Ar="0" Au="0" Re="28" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="222" Id="(null)" Dt="06/09/2013" Dv="(null)" Cu="1" Am="19.11" Exb="0" Exr="0.00" Exf="0.00" Pa="108" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="0A742191JV5335140" Ma="3" Ar="0" Au="0" Re="29" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="223" Id="(null)" Dt="06/09/2013" Dv="(null)" Cu="1" Am="17.32" Exb="0" Exr="0.00" Exf="0.00" Pa="109" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="0U157394CA748961C" Ma="3" Ar="0" Au="0" Re="29" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="224" Id="(null)" Dt="06/09/2013" Dv="(null)" Cu="1" Am="19.47" Exb="0" Exr="0.00" Exf="0.00" Pa="110" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="2AS19402VU875631X" Ma="3" Ar="0" Au="0" Re="29" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -559,6 +562,9 @@
 	<Party Nb="105" Na="Jean-Francois Cayula" Txt="(null)" Search="(null)" />
 	<Party Nb="106" Na="RMLL 2013" Txt="(null)" Search="(null)" />
 	<Party Nb="107" Na="Olivier PLACAIS" Txt="(null)" Search="(null)" />
+	<Party Nb="108" Na="Philipp Basedau" Txt="(null)" Search="(null)" />
+	<Party Nb="109" Na="George DeLoach" Txt="(null)" Search="(null)" />
+	<Party Nb="110" Na="Jose Luis Nunez Crespi" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
@@ -607,5 +613,6 @@
 	<Reconcile Nb="26" Na="19" Acc="3" Idate="06/02/2013" Fdate="06/04/2013" Ibal="2313.64" Fbal="2386.84" />
 	<Reconcile Nb="27" Na="20" Acc="3" Idate="06/04/2013" Fdate="06/09/2013" Ibal="2386.84" Fbal="2428.32" />
 	<Reconcile Nb="28" Na="21" Acc="3" Idate="06/09/2013" Fdate="06/09/2013" Ibal="2428.32" Fbal="2457.65" />
+	<Reconcile Nb="29" Na="22" Acc="3" Idate="06/09/2013" Fdate="06/09/2013" Ibal="2457.65" Fbal="2513.55" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
