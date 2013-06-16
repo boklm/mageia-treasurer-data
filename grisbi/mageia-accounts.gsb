@@ -461,6 +461,7 @@
 	<Transaction Ac="3" Nb="228" Id="(null)" Dt="06/13/2013" Dv="(null)" Cu="1" Am="0.73" Exb="0" Exr="0.00" Exf="0.00" Pa="113" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="1XN70190VY216744J" Ma="3" Ar="0" Au="0" Re="30" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="229" Id="(null)" Dt="06/15/2013" Dv="(null)" Cu="1" Am="4.68" Exb="0" Exr="0.00" Exf="0.00" Pa="114" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="3S891312XG2368101" Ma="3" Ar="0" Au="0" Re="30" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="230" Id="(null)" Dt="06/16/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="115" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="255410404R057362F" Ma="3" Ar="0" Au="0" Re="30" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="231" Id="(null)" Dt="06/10/2013" Dv="(null)" Cu="1" Am="-9.77" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
