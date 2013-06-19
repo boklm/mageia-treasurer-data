@@ -365,7 +365,7 @@
 	<Transaction Ac="3" Nb="132" Id="(null)" Dt="02/01/2013" Dv="(null)" Cu="1" Am="4.68" Exb="0" Exr="0.00" Exf="0.00" Pa="30" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="17U407722P9254307" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="133" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="2.65" Exb="0" Exr="0.00" Exf="0.00" Pa="31" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="1YT16858PE889525S" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="134" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="19.47" Exb="0" Exr="0.00" Exf="0.00" Pa="32" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="8T930660DP553294U" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
-	<Transaction Ac="1" Nb="135" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="-305.55" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="1" Pc="82G75100T1944305E" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="136" Mo="0" />
+	<Transaction Ac="1" Nb="135" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="-305.55" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="1" Pc="82G75100T1944305E" Ma="3" Ar="0" Au="0" Re="36" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="136" Mo="0" />
 	<Transaction Ac="3" Nb="136" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="305.55" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="11" Pc="82G75100T1944305E" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="135" Mo="0" />
 	<Transaction Ac="3" Nb="137" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="-457.47" Exb="0" Exr="0.00" Exf="0.00" Pa="9" Ca="1" Sca="4" Br="0" No="SSL Certificate" Pn="11" Pc="6J556080L91922602" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="138" Id="(null)" Dt="02/14/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="33" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="0NT99477PG4803738" Ma="3" Ar="0" Au="0" Re="12" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
@@ -469,6 +469,11 @@
 	<Transaction Ac="1" Nb="236" Id="(null)" Dt="01/23/2013" Dv="(null)" Cu="1" Am="20.00" Exb="0" Exr="0.00" Exf="0.00" Pa="119" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="3" Ar="0" Au="0" Re="35" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="237" Id="(null)" Dt="01/24/2013" Dv="(null)" Cu="1" Am="-563.87" Exb="0" Exr="0.00" Exf="0.00" Pa="120" Ca="1" Sca="1" Br="0" No="HD and SSD for valstar" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="35" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="238" Id="(null)" Dt="12/31/2012" Dv="(null)" Cu="1" Am="861.31" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="Unknown" Pn="2" Pc="(null)" Ma="3" Ar="0" Au="0" Re="34" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="239" Id="(null)" Dt="02/01/2013" Dv="(null)" Cu="1" Am="-2126.49" Exb="0" Exr="0.00" Exf="0.00" Pa="8" Ca="4" Sca="1" Br="0" No="TShirts" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="36" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="240" Id="(null)" Dt="02/06/2013" Dv="(null)" Cu="1" Am="240.00" Exb="0" Exr="0.00" Exf="0.00" Pa="89" Ca="2" Sca="3" Br="0" No="Donations and sales of 4 TShirts and approx 40 USB Cards" Pn="2" Pc="(null)" Ma="3" Ar="0" Au="0" Re="36" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="241" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="-100.00" Exb="0" Exr="0.00" Exf="0.00" Pa="6" Ca="3" Sca="0" Br="0" No="Cotisation April" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="36" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="242" Id="(null)" Dt="02/07/2013" Dv="(null)" Cu="1" Am="-300.00" Exb="0" Exr="0.00" Exf="0.00" Pa="9" Ca="1" Sca="4" Br="0" No="Hosting provision" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="36" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="243" Id="(null)" Dt="02/12/2013" Dv="(null)" Cu="1" Am="100.00" Exb="0" Exr="0.00" Exf="0.00" Pa="121" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="36" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -589,6 +594,7 @@
 	<Party Nb="118" Na="Jean-Jacques Barret" Txt="(null)" Search="(null)" />
 	<Party Nb="119" Na="Guillaume Bernard" Txt="(null)" Search="(null)" />
 	<Party Nb="120" Na="Materiel.net" Txt="(null)" Search="(null)" />
+	<Party Nb="121" Na="Arnaud Vacquier" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
@@ -624,6 +630,7 @@
 	<Reconcile Nb="11" Na="4" Acc="3" Idate="01/01/2013" Fdate="02/01/2013" Ibal="828.81" Fbal="125.12" />
 	<Reconcile Nb="35" Na="8" Acc="1" Idate="01/01/2013" Fdate="02/01/2013" Ibal="2191.13" Fbal="2997.26" />
 	<Reconcile Nb="12" Na="5" Acc="3" Idate="02/01/2013" Fdate="03/01/2013" Ibal="125.12" Fbal="116.32" />
+	<Reconcile Nb="36" Na="9" Acc="1" Idate="02/01/2013" Fdate="03/01/2013" Ibal="2997.26" Fbal="505.22" />
 	<Reconcile Nb="13" Na="6" Acc="3" Idate="03/01/2013" Fdate="04/01/2013" Ibal="116.32" Fbal="1578.46" />
 	<Reconcile Nb="14" Na="7" Acc="3" Idate="04/01/2013" Fdate="05/21/2013" Ibal="1578.46" Fbal="1616.73" />
 	<Reconcile Nb="15" Na="8" Acc="3" Idate="05/21/2013" Fdate="05/21/2013" Ibal="1616.73" Fbal="1626.24" />
