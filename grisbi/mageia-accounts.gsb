@@ -379,8 +379,8 @@
 	<Transaction Ac="1" Nb="146" Id="(null)" Dt="03/11/2013" Dv="(null)" Cu="1" Am="-16.27" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="3" Ar="0" Au="0" Re="37" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="147" Id="(null)" Dt="03/12/2013" Dv="(null)" Cu="1" Am="100.00" Exb="0" Exr="0.00" Exf="0.00" Pa="123" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="3" Ar="0" Au="0" Re="37" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="148" Id="(null)" Dt="03/25/2013" Dv="(null)" Cu="1" Am="300.00" Exb="0" Exr="0.00" Exf="0.00" Pa="40" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="37" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
-	<Transaction Ac="1" Nb="149" Id="(null)" Dt="04/10/2013" Dv="(null)" Cu="1" Am="-9.57" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
-	<Transaction Ac="1" Nb="150" Id="(null)" Dt="04/22/2013" Dv="(null)" Cu="1" Am="2.00" Exb="0" Exr="0.00" Exf="0.00" Pa="41" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="30066-12-13112355004358" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="149" Id="(null)" Dt="04/10/2013" Dv="(null)" Cu="1" Am="-9.57" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="3" Ar="0" Au="0" Re="38" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="150" Id="(null)" Dt="04/22/2013" Dv="(null)" Cu="1" Am="2.00" Exb="0" Exr="0.00" Exf="0.00" Pa="41" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="30066-12-13112355004358" Ma="3" Ar="0" Au="0" Re="38" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="151" Id="(null)" Dt="05/01/2013" Dv="(null)" Cu="1" Am="-9.57" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="152" Id="(null)" Dt="05/07/2013" Dv="(null)" Cu="1" Am="20.00" Exb="0" Exr="0.00" Exf="0.00" Pa="42" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="30066-12-13127365019801" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="153" Id="(null)" Dt="03/05/2013" Dv="(null)" Cu="1" Am="19.27" Exb="0" Exr="0.00" Exf="0.00" Pa="43" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="6MG618222L567801F" Ma="3" Ar="0" Au="0" Re="13" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
@@ -637,6 +637,7 @@
 	<Reconcile Nb="36" Na="9" Acc="1" Idate="02/01/2013" Fdate="03/01/2013" Ibal="2997.26" Fbal="505.22" />
 	<Reconcile Nb="13" Na="6" Acc="3" Idate="03/01/2013" Fdate="04/01/2013" Ibal="116.32" Fbal="1578.46" />
 	<Reconcile Nb="37" Na="10" Acc="1" Idate="03/01/2013" Fdate="04/01/2013" Ibal="505.22" Fbal="1068.95" />
+	<Reconcile Nb="38" Na="11" Acc="1" Idate="04/01/2013" Fdate="05/01/2013" Ibal="1068.95" Fbal="1061.38" />
 	<Reconcile Nb="14" Na="7" Acc="3" Idate="04/01/2013" Fdate="05/21/2013" Ibal="1578.46" Fbal="1616.73" />
 	<Reconcile Nb="15" Na="8" Acc="3" Idate="05/21/2013" Fdate="05/21/2013" Ibal="1616.73" Fbal="1626.24" />
 	<Reconcile Nb="16" Na="9" Acc="3" Idate="05/21/2013" Fdate="05/21/2013" Ibal="1626.24" Fbal="1645.71" />
