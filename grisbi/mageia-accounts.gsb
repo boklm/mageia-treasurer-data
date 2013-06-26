@@ -478,8 +478,9 @@
 	<Transaction Ac="3" Nb="245" Id="(null)" Dt="06/21/2013" Dv="(null)" Cu="1" Am="14.54" Exb="0" Exr="0.00" Exf="0.00" Pa="126" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="9NB25463GE5512803" Ma="3" Ar="0" Au="0" Re="40" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="246" Id="(null)" Dt="06/24/2013" Dv="(null)" Cu="1" Am="40.00" Exb="0" Exr="0.00" Exf="0.00" Pa="127" Ca="2" Sca="2" Br="0" No="&quot;BRAVO POUR VOTRE TRAVAIL&quot;" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="41" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="247" Id="(null)" Dt="06/24/2013" Dv="(null)" Cu="1" Am="81.35" Exb="0" Exr="0.00" Exf="0.00" Pa="128" Ca="0" Sca="0" Br="0" No="100.00 CHF" Pn="1" Pc="ZD81175ZD9293851" Ma="3" Ar="0" Au="0" Re="41" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
-	<Transaction Ac="3" Nb="248" Id="(null)" Dt="06/26/2013" Dv="(null)" Cu="1" Am="9.61" Exb="0" Exr="0.00" Exf="0.00" Pa="129" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4VU75636CN301263G" Ma="1" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
-	<Transaction Ac="3" Nb="249" Id="(null)" Dt="06/26/2013" Dv="(null)" Cu="1" Am="29.33" Exb="0" Exr="0.00" Exf="0.00" Pa="130" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="7VD293947X329462T" Ma="1" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="248" Id="(null)" Dt="06/26/2013" Dv="(null)" Cu="1" Am="9.61" Exb="0" Exr="0.00" Exf="0.00" Pa="129" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4VU75636CN301263G" Ma="3" Ar="0" Au="0" Re="42" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="249" Id="(null)" Dt="06/26/2013" Dv="(null)" Cu="1" Am="29.33" Exb="0" Exr="0.00" Exf="0.00" Pa="130" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="7VD293947X329462T" Ma="3" Ar="0" Au="0" Re="42" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="250" Id="(null)" Dt="06/25/2013" Dv="(null)" Cu="1" Am="-27.35" Exb="0" Exr="0.00" Exf="0.00" Pa="16" Ca="7" Sca="0" Br="0" No="chargeback fee for case #PP-002-413-241-616" Pn="14" Pc="(null)" Ma="3" Ar="0" Au="0" Re="42" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -671,5 +672,6 @@
 	<Reconcile Nb="33" Na="25" Acc="3" Idate="06/18/2013" Fdate="06/19/2013" Ibal="2286.95" Fbal="2383.00" />
 	<Reconcile Nb="40" Na="26" Acc="3" Idate="06/19/2013" Fdate="06/23/2013" Ibal="2383.00" Fbal="2397.54" />
 	<Reconcile Nb="41" Na="13" Acc="1" Idate="06/01/2013" Fdate="06/26/2013" Ibal="1684.91" Fbal="1303.06" />
+	<Reconcile Nb="42" Na="27" Acc="3" Idate="06/23/2013" Fdate="06/26/2013" Ibal="2397.54" Fbal="2409.13" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
