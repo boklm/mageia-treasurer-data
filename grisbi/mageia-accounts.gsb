@@ -478,6 +478,8 @@
 	<Transaction Ac="3" Nb="245" Id="(null)" Dt="06/21/2013" Dv="(null)" Cu="1" Am="14.54" Exb="0" Exr="0.00" Exf="0.00" Pa="126" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="9NB25463GE5512803" Ma="3" Ar="0" Au="0" Re="40" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="246" Id="(null)" Dt="06/24/2013" Dv="(null)" Cu="1" Am="40.00" Exb="0" Exr="0.00" Exf="0.00" Pa="127" Ca="2" Sca="2" Br="0" No="&quot;BRAVO POUR VOTRE TRAVAIL&quot;" Pn="1" Pc="(null)" Ma="3" Ar="0" Au="0" Re="41" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="247" Id="(null)" Dt="06/24/2013" Dv="(null)" Cu="1" Am="81.35" Exb="0" Exr="0.00" Exf="0.00" Pa="128" Ca="0" Sca="0" Br="0" No="100.00 CHF" Pn="1" Pc="ZD81175ZD9293851" Ma="3" Ar="0" Au="0" Re="41" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="248" Id="(null)" Dt="06/26/2013" Dv="(null)" Cu="1" Am="9.61" Exb="0" Exr="0.00" Exf="0.00" Pa="129" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="4VU75636CN301263G" Ma="1" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="249" Id="(null)" Dt="06/26/2013" Dv="(null)" Cu="1" Am="29.33" Exb="0" Exr="0.00" Exf="0.00" Pa="130" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="7VD293947X329462T" Ma="1" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -606,6 +608,8 @@
 	<Party Nb="126" Na="Sylvie LE MADEC" Txt="(null)" Search="(null)" />
 	<Party Nb="127" Na="Christine Noot" Txt="(null)" Search="(null)" />
 	<Party Nb="128" Na="Jens Jablonski" Txt="(null)" Search="(null)" />
+	<Party Nb="129" Na="LibreStickers" Txt="(null)" Search="(null)" />
+	<Party Nb="130" Na="Patrick Charpentier" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
