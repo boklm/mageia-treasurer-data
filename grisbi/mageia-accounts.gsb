@@ -483,6 +483,8 @@
 	<Transaction Ac="3" Nb="250" Id="(null)" Dt="06/25/2013" Dv="(null)" Cu="1" Am="-27.35" Exb="0" Exr="0.00" Exf="0.00" Pa="16" Ca="7" Sca="0" Br="0" No="chargeback fee for case #PP-002-413-241-616" Pn="14" Pc="(null)" Ma="3" Ar="0" Au="0" Re="42" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="251" Id="(null)" Dt="06/27/2013" Dv="(null)" Cu="1" Am="39.19" Exb="0" Exr="0.00" Exf="0.00" Pa="131" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="8X453712EU074912B" Ma="3" Ar="0" Au="0" Re="43" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="252" Id="(null)" Dt="06/27/2013" Dv="(null)" Cu="1" Am="0.52" Exb="0" Exr="0.00" Exf="0.00" Pa="132" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="1FF60924B3500791H" Ma="3" Ar="0" Au="0" Re="43" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="253" Id="(null)" Dt="06/29/2013" Dv="(null)" Cu="1" Am="9.51" Exb="0" Exr="0.00" Exf="0.00" Pa="133" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="1XK852550Y165412K" Ma="3" Ar="0" Au="0" Re="44" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="254" Id="(null)" Dt="06/30/2013" Dv="(null)" Cu="1" Am="4.68" Exb="0" Exr="0.00" Exf="0.00" Pa="134" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="1EA28367F1185835B" Ma="3" Ar="0" Au="0" Re="44" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -615,6 +617,8 @@
 	<Party Nb="130" Na="Patrick Charpentier" Txt="(null)" Search="(null)" />
 	<Party Nb="131" Na="Jean-Marc Sarat" Txt="(null)" Search="(null)" />
 	<Party Nb="132" Na="Zoltán Halasi" Txt="(null)" Search="(null)" />
+	<Party Nb="133" Na="Steven Campbell" Txt="(null)" Search="(null)" />
+	<Party Nb="134" Na="Independant" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
@@ -678,5 +682,6 @@
 	<Reconcile Nb="41" Na="13" Acc="1" Idate="06/01/2013" Fdate="06/26/2013" Ibal="1684.91" Fbal="1303.06" />
 	<Reconcile Nb="42" Na="27" Acc="3" Idate="06/23/2013" Fdate="06/26/2013" Ibal="2397.54" Fbal="2409.13" />
 	<Reconcile Nb="43" Na="28" Acc="3" Idate="06/26/2013" Fdate="06/27/2013" Ibal="2409.13" Fbal="2448.84" />
+	<Reconcile Nb="44" Na="29" Acc="3" Idate="06/27/2013" Fdate="07/01/2013" Ibal="2448.84" Fbal="2463.03" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
