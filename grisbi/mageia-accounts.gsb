@@ -36,7 +36,7 @@
 		Remind_form_per_account="0"
 		Transaction_column_width="10-12-36-6-12-12-13"
 		Transaction_column_align="1-1-0-1-2-2-2"
-		Scheduler_column_width="16-18-42-18-18-12-1"
+		Scheduler_column_width="17-19-43-19-19-12-1"
 		Combofix_mixed_sort="0"
 		Combofix_max_item="0"
 		Combofix_case_sensitive="0"
@@ -496,6 +496,7 @@
 	<Transaction Ac="3" Nb="263" Id="(null)" Dt="07/25/2013" Dv="(null)" Cu="1" Am="24.15" Exb="0" Exr="0.00" Exf="0.00" Pa="142" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="95494815YY831472F" Ma="3" Ar="0" Au="0" Re="49" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="264" Id="(null)" Dt="07/26/2013" Dv="(null)" Cu="1" Am="9.61" Exb="0" Exr="0.00" Exf="0.00" Pa="143" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="66885968ND8651809" Ma="3" Ar="0" Au="0" Re="50" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="265" Id="(null)" Dt="07/27/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="144" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="8C331977B01089337" Ma="3" Ar="0" Au="0" Re="50" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="266" Id="(null)" Dt="07/27/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="145" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="8YE22384PJ711592M" Ma="3" Ar="0" Au="0" Re="51" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -640,6 +641,7 @@
 	<Party Nb="142" Na="Brent Gernant" Txt="(null)" Search="(null)" />
 	<Party Nb="143" Na="Francois HAUS" Txt="(null)" Search="(null)" />
 	<Party Nb="144" Na="Simon Geard" Txt="(null)" Search="(null)" />
+	<Party Nb="145" Na="Joseph Holec" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
@@ -710,5 +712,6 @@
 	<Reconcile Nb="48" Na="33" Acc="3" Idate="07/19/2013" Fdate="07/24/2013" Ibal="2629.90" Fbal="2698.12" />
 	<Reconcile Nb="49" Na="34" Acc="3" Idate="07/24/2013" Fdate="07/25/2013" Ibal="2698.12" Fbal="2722.27" />
 	<Reconcile Nb="50" Na="35" Acc="3" Idate="07/25/2013" Fdate="07/27/2013" Ibal="2722.27" Fbal="2780.93" />
+	<Reconcile Nb="51" Na="36" Acc="3" Idate="07/27/2013" Fdate="07/27/2013" Ibal="2780.93" Fbal="2829.98" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
