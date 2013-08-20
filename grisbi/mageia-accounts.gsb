@@ -36,7 +36,7 @@
 		Remind_form_per_account="0"
 		Transaction_column_width="10-12-36-6-12-12-13"
 		Transaction_column_align="1-1-0-1-2-2-2"
-		Scheduler_column_width="20-22-46-22-22-12-1"
+		Scheduler_column_width="21-23-47-23-23-12-1"
 		Combofix_mixed_sort="0"
 		Combofix_max_item="0"
 		Combofix_case_sensitive="0"
@@ -502,6 +502,11 @@
 	<Transaction Ac="3" Nb="269" Id="(null)" Dt="07/31/2013" Dv="(null)" Cu="1" Am="43.67" Exb="0" Exr="0.00" Exf="0.00" Pa="148" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="9GD61386XN024700Y" Ma="3" Ar="0" Au="0" Re="53" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="270" Id="(null)" Dt="08/01/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="149" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="132906794P832760V" Ma="3" Ar="0" Au="0" Re="53" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="271" Id="(null)" Dt="08/08/2013" Dv="(null)" Cu="1" Am="14.39" Exb="0" Exr="0.00" Exf="0.00" Pa="150" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="9RR52084DC3275844" Ma="3" Ar="0" Au="0" Re="54" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="272" Id="(null)" Dt="08/10/2013" Dv="(null)" Cu="1" Am="9.61" Exb="0" Exr="0.00" Exf="0.00" Pa="151" Ca="2" Sca="1" Br="0" No="&quot;Un grand bravo à la communauté Mageai et surtout long vie&quot;" Pn="11" Pc="3KV09408PN999174V" Ma="3" Ar="0" Au="0" Re="55" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="273" Id="(null)" Dt="08/11/2013" Dv="(null)" Cu="1" Am="4.68" Exb="0" Exr="0.00" Exf="0.00" Pa="152" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="3TR73991HY856403H" Ma="3" Ar="0" Au="0" Re="55" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="274" Id="(null)" Dt="08/11/2013" Dv="(null)" Cu="1" Am="36.35" Exb="0" Exr="0.00" Exf="0.00" Pa="153" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="1H9136911Y646405H" Ma="3" Ar="0" Au="0" Re="55" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="275" Id="(null)" Dt="08/16/2013" Dv="(null)" Cu="1" Am="29.33" Exb="0" Exr="0.00" Exf="0.00" Pa="154" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="5Y456734A9823815D" Ma="3" Ar="0" Au="0" Re="55" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="276" Id="(null)" Dt="08/20/2013" Dv="(null)" Cu="1" Am="38.79" Exb="0" Exr="0.00" Exf="0.00" Pa="155" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="6R94896569371554C" Ma="3" Ar="0" Au="0" Re="55" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -652,6 +657,11 @@
 	<Party Nb="148" Na="Louis Muollo" Txt="(null)" Search="(null)" />
 	<Party Nb="149" Na="Loïc Mercier" Txt="(null)" Search="(null)" />
 	<Party Nb="150" Na="Bruno Turcksin" Txt="(null)" Search="(null)" />
+	<Party Nb="151" Na="Patrice Fenelon" Txt="(null)" Search="(null)" />
+	<Party Nb="152" Na="Thibaut Leduc" Txt="(null)" Search="(null)" />
+	<Party Nb="153" Na="J A Lee-Rittell" Txt="(null)" Search="(null)" />
+	<Party Nb="154" Na="Markus Rosswag" Txt="(null)" Search="(null)" />
+	<Party Nb="155" Na="Michael Moore" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
@@ -726,5 +736,6 @@
 	<Reconcile Nb="52" Na="37" Acc="3" Idate="07/27/2013" Fdate="07/29/2013" Ibal="2829.98" Fbal="2859.31" />
 	<Reconcile Nb="53" Na="38" Acc="3" Idate="07/29/2013" Fdate="08/01/2013" Ibal="2859.31" Fbal="2975.85" />
 	<Reconcile Nb="54" Na="39" Acc="3" Idate="08/01/2013" Fdate="08/09/2013" Ibal="2975.85" Fbal="2990.24" />
+	<Reconcile Nb="55" Na="40" Acc="3" Idate="08/09/2013" Fdate="08/21/2013" Ibal="2990.24" Fbal="3109.00" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
