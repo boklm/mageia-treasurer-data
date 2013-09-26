@@ -36,7 +36,7 @@
 		Remind_form_per_account="0"
 		Transaction_column_width="10-12-36-6-12-12-13"
 		Transaction_column_align="1-1-0-1-2-2-2"
-		Scheduler_column_width="32-34-58-34-34-12-1"
+		Scheduler_column_width="33-35-59-35-35-12-1"
 		Combofix_mixed_sort="0"
 		Combofix_max_item="0"
 		Combofix_case_sensitive="0"
@@ -525,6 +525,8 @@
 	<Transaction Ac="3" Nb="292" Id="(null)" Dt="09/18/2013" Dv="(null)" Cu="1" Am="1.19" Exb="0" Exr="0.00" Exf="0.00" Pa="159" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="91E110252H136570K" Ma="3" Ar="0" Au="0" Re="64" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="293" Id="(null)" Dt="09/25/2013" Dv="(null)" Cu="1" Am="29.33" Exb="0" Exr="0.00" Exf="0.00" Pa="165" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="6WJ42084395278709" Ma="3" Ar="0" Au="0" Re="64" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="294" Id="(null)" Dt="09/25/2013" Dv="(null)" Cu="1" Am="19.47" Exb="0" Exr="0.00" Exf="0.00" Pa="166" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="2XF78887XV5430231" Ma="3" Ar="0" Au="0" Re="64" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="295" Id="(null)" Dt="08/12/2013" Dv="(null)" Cu="1" Am="-9.57" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="296" Id="(null)" Dt="09/10/2013" Dv="(null)" Cu="1" Am="-9.57" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
