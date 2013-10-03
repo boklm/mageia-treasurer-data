@@ -1,0 +1,58 @@
+#!/bin/sh
+
+[ $# = 2 ] || exit 1
+
+to="$2"
+bcc='treasurer@mageia.org'
+from='Mageia Treasurer <treasurer@mageia.org>'
+subject='Thanks for your donation to the Mageia project'
+case "$1" in
+    paypal)
+        echo "Press enter to send thanks to $to ($1)"
+        read z
+        mailx -b "$bcc" -r "$from" -s "$subject" "$to" <<EOF
+Thanks for supporting the Mageia project with a donation !
+
+We inform you that we correctly received your donation and that it will
+soon be listed on our donations website at the following URL :
+
+ https://treasurer.mageia.org/donations_all.html
+
+Note that the amount indicated on the website is a little lower than
+what you paid, because of the paypal fees.
+
+In case of error in your name, or if you want your donation to be
+anonymous, please let us know by answering to this email and we will
+correct it.
+
+EOF
+        break
+        ;;
+
+    anonymous)
+        echo "Press enter to send thanks to $to ($1)"
+        read z
+        mailx -b "$bcc" -r "$from" -s "$subject" "$to" <<EOF
+Thanks for supporting the Mageia project with a donation !
+
+We inform you that we correctly received your donation and that it will
+soon be listed on our donations website at the following URL :
+
+ https://treasurer.mageia.org/donations_all.html
+
+Note that the amount indicated on the website is a little lower than
+what you paid, because of the paypal fees.
+
+As you requested this donation to be anonymous, it will appear under
+the "Anonymous" name.
+
+EOF
+        break
+        ;;
+
+    *)
+        echo "Unknown $1"
+        exit 1
+        break
+        ;;
+esac
