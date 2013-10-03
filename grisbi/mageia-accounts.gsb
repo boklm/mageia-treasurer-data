@@ -36,7 +36,7 @@
 		Remind_form_per_account="0"
 		Transaction_column_width="10-12-36-6-12-12-13"
 		Transaction_column_align="1-1-0-1-2-2-2"
-		Scheduler_column_width="36-38-62-38-38-12-1"
+		Scheduler_column_width="37-39-63-39-39-12-1"
 		Combofix_mixed_sort="0"
 		Combofix_max_item="0"
 		Combofix_case_sensitive="0"
@@ -518,7 +518,7 @@
 	<Transaction Ac="1" Nb="285" Id="(null)" Dt="09/06/2013" Dv="(null)" Cu="1" Am="-3500.00" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="286" Mo="0" />
 	<Transaction Ac="2" Nb="286" Id="(null)" Dt="09/06/2013" Dv="(null)" Cu="1" Am="3500.00" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="(null)" Pn="0" Pc="(null)" Ma="3" Ar="0" Au="0" Re="60" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="285" Mo="0" />
 	<Transaction Ac="3" Nb="287" Id="(null)" Dt="09/11/2013" Dv="(null)" Cu="1" Am="14.39" Exb="0" Exr="0.00" Exf="0.00" Pa="160" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="7XH31908G9048612M" Ma="3" Ar="0" Au="0" Re="61" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
-	<Transaction Ac="3" Nb="288" Id="(null)" Dt="09/11/2013" Dv="(null)" Cu="1" Am="0.71" Exb="0" Exr="0.00" Exf="0.00" Pa="161" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="9M940623M7078962E" Ma="3" Ar="0" Au="0" Re="62" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="288" Id="(null)" Dt="09/11/2013" Dv="(null)" Cu="1" Am="0.71" Exb="0" Exr="0.00" Exf="0.00" Pa="168" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="9M940623M7078962E" Ma="3" Ar="0" Au="0" Re="62" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="289" Id="(null)" Dt="09/12/2013" Dv="(null)" Cu="1" Am="29.33" Exb="0" Exr="0.00" Exf="0.00" Pa="162" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="07N5571752692901F" Ma="3" Ar="0" Au="0" Re="62" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="290" Id="(null)" Dt="09/12/2013" Dv="(null)" Cu="1" Am="19.11" Exb="0" Exr="0.00" Exf="0.00" Pa="163" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="5SY80822YR285352B" Ma="3" Ar="0" Au="0" Re="63" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="291" Id="(null)" Dt="09/15/2013" Dv="(null)" Cu="1" Am="9.61" Exb="0" Exr="0.00" Exf="0.00" Pa="164" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="56U29176S3106893Y" Ma="3" Ar="0" Au="0" Re="63" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
