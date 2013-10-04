@@ -13,8 +13,9 @@ case "$1" in
         mailx -b "$bcc" -r "$from" -s "$subject" "$to" <<EOF
 Thanks for supporting the Mageia project with a donation !
 
-We inform you that we correctly received your donation and that it will
-soon be listed on our donations website at the following URL :
+This message is just to inform you that we received your donation and
+that it will soon be listed on our donations website at the following
+URL :
 
  https://treasurer.mageia.org/donations_all.html
 
@@ -35,8 +36,9 @@ EOF
         mailx -b "$bcc" -r "$from" -s "$subject" "$to" <<EOF
 Thanks for supporting the Mageia project with a donation !
 
-We inform you that we correctly received your donation and that it will
-soon be listed on our donations website at the following URL :
+This message is just to inform you that we received your donation and
+that it will soon be listed on our donations website at the following
+URL :
 
  https://treasurer.mageia.org/donations_all.html
 
