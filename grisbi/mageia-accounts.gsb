@@ -36,7 +36,7 @@
 		Remind_form_per_account="0"
 		Transaction_column_width="10-12-36-6-12-12-13"
 		Transaction_column_align="1-1-0-1-2-2-2"
-		Scheduler_column_width="50-52-76-52-52-12-1"
+		Scheduler_column_width="51-53-77-53-53-12-1"
 		Combofix_mixed_sort="0"
 		Combofix_max_item="0"
 		Combofix_case_sensitive="0"
@@ -578,6 +578,7 @@
 	<Transaction Ac="1" Nb="345" Id="(null)" Dt="12/11/2013" Dv="(null)" Cu="1" Am="150.00" Exb="0" Exr="0.00" Exf="0.00" Pa="200" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="3" Ar="0" Au="0" Re="69" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="346" Id="(null)" Dt="12/10/2013" Dv="(null)" Cu="1" Am="-9.57" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="3" Ar="0" Au="0" Re="69" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="347" Id="(null)" Dt="01/05/2014" Dv="(null)" Cu="1" Am="5.00" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="Unknown error. We have 5 euros more than what we should." Pn="2" Pc="(null)" Ma="3" Ar="0" Au="0" Re="69" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="2" Nb="348" Id="(null)" Dt="12/31/2013" Dv="(null)" Cu="1" Am="100.47" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="6" Sca="0" Br="0" No="Interests for 2013" Pn="7" Pc="(null)" Ma="3" Ar="0" Au="0" Re="70" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -811,6 +812,7 @@
 	<Reconcile Nb="10" Na="6" Acc="1" Idate="02/01/2012" Fdate="03/01/2012" Ibal="-6137.76" Fbal="1329.82" />
 	<Reconcile Nb="32" Na="5" Acc="2" Idate="02/01/2012" Fdate="03/01/2012" Ibal="5403.13" Fbal="5538.49" />
 	<Reconcile Nb="60" Na="6" Acc="2" Idate="03/01/2012" Fdate="04/01/2012" Ibal="5538.49" Fbal="9038.49" />
+	<Reconcile Nb="70" Na="7" Acc="2" Idate="04/01/2012" Fdate="05/01/2012" Ibal="9038.49" Fbal="9138.96" />
 	<Reconcile Nb="7" Na="3" Acc="3" Idate="01/31/2011" Fdate="01/01/2013" Ibal="653.24" Fbal="828.81" />
 	<Reconcile Nb="34" Na="7" Acc="1" Idate="03/01/2012" Fdate="01/01/2013" Ibal="1329.82" Fbal="2191.13" />
 	<Reconcile Nb="11" Na="4" Acc="3" Idate="01/01/2013" Fdate="02/01/2013" Ibal="828.81" Fbal="125.12" />
