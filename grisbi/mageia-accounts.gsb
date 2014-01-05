@@ -36,7 +36,7 @@
 		Remind_form_per_account="0"
 		Transaction_column_width="10-12-36-6-12-12-13"
 		Transaction_column_align="1-1-0-1-2-2-2"
-		Scheduler_column_width="51-53-77-53-53-12-1"
+		Scheduler_column_width="52-54-78-54-54-12-1"
 		Combofix_mixed_sort="0"
 		Combofix_max_item="0"
 		Combofix_case_sensitive="0"
@@ -579,6 +579,19 @@
 	<Transaction Ac="1" Nb="346" Id="(null)" Dt="12/10/2013" Dv="(null)" Cu="1" Am="-9.57" Exb="0" Exr="0.00" Exf="0.00" Pa="39" Ca="7" Sca="0" Br="0" No="(null)" Pn="4" Pc="(null)" Ma="3" Ar="0" Au="0" Re="69" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="347" Id="(null)" Dt="01/05/2014" Dv="(null)" Cu="1" Am="5.00" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="0" Sca="0" Br="0" No="Unknown error. We have 5 euros more than what we should." Pn="2" Pc="(null)" Ma="3" Ar="0" Au="0" Re="69" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="2" Nb="348" Id="(null)" Dt="12/31/2013" Dv="(null)" Cu="1" Am="100.47" Exb="0" Exr="0.00" Exf="0.00" Pa="0" Ca="6" Sca="0" Br="0" No="Interests for 2013" Pn="7" Pc="(null)" Ma="3" Ar="0" Au="0" Re="70" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="349" Id="(null)" Dt="12/11/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="203" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="350" Id="(null)" Dt="12/16/2013" Dv="(null)" Cu="1" Am="48.55" Exb="0" Exr="0.00" Exf="0.00" Pa="204" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="351" Id="(null)" Dt="12/21/2013" Dv="(null)" Cu="1" Am="39.19" Exb="0" Exr="0.00" Exf="0.00" Pa="205" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="352" Id="(null)" Dt="12/23/2013" Dv="(null)" Cu="1" Am="98.35" Exb="0" Exr="0.00" Exf="0.00" Pa="206" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="353" Id="(null)" Dt="12/26/2013" Dv="(null)" Cu="1" Am="19.47" Exb="0" Exr="0.00" Exf="0.00" Pa="207" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="354" Id="(null)" Dt="12/27/2013" Dv="(null)" Cu="1" Am="32.29" Exb="0" Exr="0.00" Exf="0.00" Pa="208" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="355" Id="(null)" Dt="12/27/2013" Dv="(null)" Cu="1" Am="4.68" Exb="0" Exr="0.00" Exf="0.00" Pa="209" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="356" Id="(null)" Dt="12/28/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="210" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="357" Id="(null)" Dt="12/28/2013" Dv="(null)" Cu="1" Am="19.47" Exb="0" Exr="0.00" Exf="0.00" Pa="211" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="358" Id="(null)" Dt="12/31/2013" Dv="(null)" Cu="1" Am="9.38" Exb="0" Exr="0.00" Exf="0.00" Pa="212" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="359" Id="(null)" Dt="01/01/2014" Dv="(null)" Cu="1" Am="48.55" Exb="0" Exr="0.00" Exf="0.00" Pa="213" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="360" Id="(null)" Dt="01/02/2014" Dv="(null)" Cu="1" Am="4.63" Exb="0" Exr="0.00" Exf="0.00" Pa="214" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="3" Nb="361" Id="(null)" Dt="01/02/2014" Dv="(null)" Cu="1" Am="98.35" Exb="0" Exr="0.00" Exf="0.00" Pa="68" Ca="2" Sca="1" Br="0" No="(null)" Pn="11" Pc="(null)" Ma="3" Ar="0" Au="0" Re="71" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -781,6 +794,18 @@
 	<Party Nb="200" Na="Christian Fischer" Txt="(null)" Search="(null)" />
 	<Party Nb="201" Na="Ahmed Louali" Txt="(null)" Search="(null)" />
 	<Party Nb="202" Na="Florin Russen" Txt="(null)" Search="(null)" />
+	<Party Nb="203" Na="Jean SIÉ" Txt="(null)" Search="(null)" />
+	<Party Nb="204" Na="James Aston" Txt="(null)" Search="(null)" />
+	<Party Nb="205" Na="Jean-Francois Ramez" Txt="(null)" Search="(null)" />
+	<Party Nb="206" Na="Johnny Christiansen" Txt="(null)" Search="(null)" />
+	<Party Nb="207" Na="Daniel Kronberg" Txt="(null)" Search="(null)" />
+	<Party Nb="208" Na="Ray Lawlor" Txt="(null)" Search="(null)" />
+	<Party Nb="209" Na="Jürgen Kowalzik" Txt="(null)" Search="(null)" />
+	<Party Nb="210" Na="Gianpiero Baglioni" Txt="(null)" Search="(null)" />
+	<Party Nb="211" Na="Thierry Borel" Txt="(null)" Search="(null)" />
+	<Party Nb="212" Na="Pablo Jhoán González Mora" Txt="(null)" Search="(null)" />
+	<Party Nb="213" Na="James Garrett" Txt="(null)" Search="(null)" />
+	<Party Nb="214" Na="Mustafa Hadi" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
@@ -871,5 +896,6 @@
 	<Reconcile Nb="66" Na="50" Acc="3" Idate="09/29/2013" Fdate="10/03/2013" Ibal="655.12" Fbal="659.75" />
 	<Reconcile Nb="67" Na="51" Acc="3" Idate="10/03/2013" Fdate="10/17/2013" Ibal="659.75" Fbal="854.62" />
 	<Reconcile Nb="68" Na="52" Acc="3" Idate="10/17/2013" Fdate="11/17/2013" Ibal="854.62" Fbal="1720.94" />
+	<Reconcile Nb="71" Na="53" Acc="3" Idate="11/17/2013" Fdate="12/17/2013" Ibal="1720.94" Fbal="2241.95" />
 	<Bet Ddte="1" Bet_deb_cash_account_option="0"/>
 </Grisbi>
