@@ -36,7 +36,7 @@
 		Remind_form_per_account="0"
 		Transaction_column_width="10-12-36-6-12-12-13"
 		Transaction_column_align="1-1-0-1-2-2-2"
-		Scheduler_column_width="45-47-71-47-47-12-1"
+		Scheduler_column_width="46-48-72-48-48-12-1"
 		Combofix_mixed_sort="0"
 		Combofix_max_item="0"
 		Combofix_case_sensitive="0"
@@ -144,7 +144,7 @@
 		Form_columns_number="4"
 		Form_lines_number="3"
 		Form_organization="1-6-2-3-0-0-0-7-11-12-0-0-0-10-17-0-0-0-0-0-0-0-0-0"
-		Form_columns_width="15-50-15-15-0-0"
+		Form_columns_width="14-50-14-20-0-0"
 		Bet_use_budget="0" />
 	<Account
 		Name="Savings account"
@@ -179,7 +179,7 @@
 		Form_columns_number="4"
 		Form_lines_number="3"
 		Form_organization="1-6-2-3-0-0-0-7-11-12-0-0-0-10-17-0-0-0-0-0-0-0-0-0"
-		Form_columns_width="15-50-15-15-0-0"
+		Form_columns_width="14-50-14-20-0-0"
 		Bet_use_budget="0" />
 	<Account
 		Name="Paypal account"
@@ -214,13 +214,13 @@
 		Form_columns_number="4"
 		Form_lines_number="3"
 		Form_organization="1-6-2-3-0-0-0-7-11-12-0-0-0-10-17-0-0-0-0-0-0-0-0-0"
-		Form_columns_width="15-50-15-15-0-0"
+		Form_columns_width="14-50-14-20-0-0"
 		Bet_use_budget="0" />
 	<Payment Number="1" Name="Transfer" Sign="0" Show_entry="1" Automatic_number="0" Current_number="(null)" Account="1" />
 	<Payment Number="2" Name="Deposit" Sign="2" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
 	<Payment Number="3" Name="Credit card" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
 	<Payment Number="4" Name="Direct debit" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="1" />
-	<Payment Number="5" Name="Cheque" Sign="0" Show_entry="1" Automatic_number="1" Current_number="10876R04" Account="1" />
+	<Payment Number="5" Name="Cheque" Sign="0" Show_entry="1" Automatic_number="0" Current_number="10876R04" Account="1" />
 	<Payment Number="6" Name="Transfer" Sign="0" Show_entry="1" Automatic_number="0" Current_number="(null)" Account="2" />
 	<Payment Number="7" Name="Deposit" Sign="2" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="2" />
 	<Payment Number="8" Name="Credit card" Sign="1" Show_entry="0" Automatic_number="0" Current_number="(null)" Account="2" />
@@ -560,6 +560,12 @@
 	<Transaction Ac="3" Nb="327" Id="(null)" Dt="11/28/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="189" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="68" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="328" Id="(null)" Dt="12/01/2013" Dv="(null)" Cu="1" Am="7.45" Exb="0" Exr="0.00" Exf="0.00" Pa="190" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="68" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="3" Nb="329" Id="(null)" Dt="12/01/2013" Dv="(null)" Cu="1" Am="49.05" Exb="0" Exr="0.00" Exf="0.00" Pa="191" Ca="2" Sca="1" Br="0" No="(null)" Pn="12" Pc="(null)" Ma="3" Ar="0" Au="0" Re="68" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="330" Id="(null)" Dt="09/06/2013" Dv="(null)" Cu="1" Am="100.00" Exb="0" Exr="0.00" Exf="0.00" Pa="192" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="331" Id="(null)" Dt="09/06/2013" Dv="(null)" Cu="1" Am="40.00" Exb="0" Exr="0.00" Exf="0.00" Pa="193" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="332" Id="(null)" Dt="09/06/2013" Dv="(null)" Cu="1" Am="30.00" Exb="0" Exr="0.00" Exf="0.00" Pa="194" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="333" Id="(null)" Dt="09/06/2013" Dv="(null)" Cu="1" Am="100.00" Exb="0" Exr="0.00" Exf="0.00" Pa="195" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="334" Id="(null)" Dt="09/06/2013" Dv="(null)" Cu="1" Am="65.00" Exb="0" Exr="0.00" Exf="0.00" Pa="196" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="335" Id="(null)" Dt="09/06/2013" Dv="(null)" Cu="1" Am="100.00" Exb="0" Exr="0.00" Exf="0.00" Pa="197" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -751,6 +757,12 @@
 	<Party Nb="189" Na="Dušan Pavlík" Txt="(null)" Search="(null)" />
 	<Party Nb="190" Na="Sreeji Raj" Txt="(null)" Search="(null)" />
 	<Party Nb="191" Na="Dorian Dussans" Txt="(null)" Search="(null)" />
+	<Party Nb="192" Na="Jean-Paule Claudel" Txt="(null)" Search="(null)" />
+	<Party Nb="193" Na="Jean-Christope Monnard" Txt="(null)" Search="(null)" />
+	<Party Nb="194" Na="Alexandre Caffo" Txt="(null)" Search="(null)" />
+	<Party Nb="195" Na="Jean Blouin" Txt="(null)" Search="(null)" />
+	<Party Nb="196" Na="Pierre Opter" Txt="(null)" Search="(null)" />
+	<Party Nb="197" Na="Christophe Hamelin" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
