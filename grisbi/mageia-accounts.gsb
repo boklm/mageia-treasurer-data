@@ -36,7 +36,7 @@
 		Remind_form_per_account="0"
 		Transaction_column_width="10-12-36-6-12-12-13"
 		Transaction_column_align="1-1-0-1-2-2-2"
-		Scheduler_column_width="47-49-73-49-49-12-1"
+		Scheduler_column_width="48-50-74-50-50-12-1"
 		Combofix_mixed_sort="0"
 		Combofix_max_item="0"
 		Combofix_case_sensitive="0"
@@ -570,6 +570,12 @@
 	<Transaction Ac="1" Nb="337" Id="(null)" Dt="12/20/2013" Dv="(null)" Cu="1" Am="2.00" Exb="0" Exr="0.00" Exf="0.00" Pa="41" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="338" Id="(null)" Dt="12/31/2013" Dv="(null)" Cu="1" Am="150.00" Exb="0" Exr="0.00" Exf="0.00" Pa="198" Ca="2" Sca="2" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Transaction Ac="1" Nb="339" Id="(null)" Dt="01/03/2014" Dv="(null)" Cu="1" Am="20.00" Exb="0" Exr="0.00" Exf="0.00" Pa="199" Ca="2" Sca="2" Br="0" No="(null)" Pn="2" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="340" Id="(null)" Dt="11/06/2013" Dv="(null)" Cu="1" Am="120.00" Exb="0" Exr="0.00" Exf="0.00" Pa="200" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="341" Id="(null)" Dt="11/26/2013" Dv="(null)" Cu="1" Am="10.00" Exb="0" Exr="0.00" Exf="0.00" Pa="119" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="342" Id="(null)" Dt="11/26/2013" Dv="(null)" Cu="1" Am="40.00" Exb="0" Exr="0.00" Exf="0.00" Pa="201" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="343" Id="(null)" Dt="11/26/2013" Dv="(null)" Cu="1" Am="30.00" Exb="0" Exr="0.00" Exf="0.00" Pa="78" Ca="2" Sca="4" Br="0" No="(null)" Pn="1" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="344" Id="(null)" Dt="12/11/2013" Dv="(null)" Cu="1" Am="50.00" Exb="0" Exr="0.00" Exf="0.00" Pa="202" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
+	<Transaction Ac="1" Nb="345" Id="(null)" Dt="12/11/2013" Dv="(null)" Cu="1" Am="150.00" Exb="0" Exr="0.00" Exf="0.00" Pa="200" Ca="2" Sca="4" Br="0" No="(null)" Pn="5" Pc="(null)" Ma="0" Ar="0" Au="0" Re="0" Fi="0" Bu="0" Sbu="0" Vo="(null)" Ba="(null)" Trt="0" Mo="0" />
 	<Party Nb="1" Na="dams" Txt="(null)" Search="(null)" />
 	<Party Nb="2" Na="boklm" Txt="(null)" Search="(null)" />
 	<Party Nb="3" Na="ennael" Txt="(null)" Search="(null)" />
@@ -769,6 +775,9 @@
 	<Party Nb="197" Na="Christophe Hamelin" Txt="(null)" Search="(null)" />
 	<Party Nb="198" Na="Otto und Irma Fischer-Fantino" Txt="(null)" Search="(null)" />
 	<Party Nb="199" Na="Bernhard Fischer" Txt="(null)" Search="(null)" />
+	<Party Nb="200" Na="Christian Fischer" Txt="(null)" Search="(null)" />
+	<Party Nb="201" Na="Ahmed Louali" Txt="(null)" Search="(null)" />
+	<Party Nb="202" Na="Florin Russen" Txt="(null)" Search="(null)" />
 	<Category Nb="1" Na="Mageia Infrastructure" Kd="1" />
 	<Sub_category Nbc="1" Nb="1" Na="Hardware" />
 	<Sub_category Nbc="1" Nb="2" Na="Travel" />
